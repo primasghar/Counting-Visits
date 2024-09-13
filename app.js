@@ -11,8 +11,6 @@ const responseDetails = {
 
 const data = {
   count: 0,
-  meaning: "Seeking truths beyond meaning of life, you will find 43.",
-  nada: "Nothing here yet",
 };
 
 const handleRequest = async (request) => {
