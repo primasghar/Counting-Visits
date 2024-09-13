@@ -1,8 +1,8 @@
 <% layout('./layouts/layout.eta') %>
 
-<%if(it.count){%>
+
 <h1>Count:<%= it.count %></h1>
-<%}%>
+
 
 
 
